@@ -10,7 +10,7 @@ function App() {
 
         <p>
           Oh Hell World
-          <Hello name = "OwO"/>
+          <Hello name = "test"/>
         </p>
 
       </header>
